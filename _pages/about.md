@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg # 200x200 pixels
+  image: sunrise.jpg # 200x200 pixels
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>From the top of Mt.Otensho</p>
