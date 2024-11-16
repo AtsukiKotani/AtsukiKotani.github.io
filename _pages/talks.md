@@ -1,6 +1,6 @@
 ---
 layout: page
-title: talks
+title: Presentations
 permalink: /talks/
 ---
 
