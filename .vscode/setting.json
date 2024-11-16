@@ -1,0 +1,12 @@
+{
+    "editor.formatOnSave": true,
+    "files.autoSave": "afterDelay",
+    "files.exclude": {
+        "**/_site": true,
+        "**/.jekyll-cache": true
+    },
+    "markdown.previewFrontMatter": false,
+    "yaml.schemas": {
+        "https://json.schemastore.org/jekyll.json": "file:///path-to-your/_config.yml"
+    }
+}
