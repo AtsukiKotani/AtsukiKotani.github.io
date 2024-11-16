@@ -49,11 +49,11 @@ layout: default
     {% endif %}
 
     <!-- Upcoming Presentations -->
-    {% if page.talks and site.announcements.enabled  %}
+    {% if page.talks and site.announcements.enabled %}
       <h2>
-        <a href="{{ '/presentations/' | relative_url }}" style="color: inherit">upcoming presentations</a>
+        <a href="{{ '/talks/' | relative_url }}" style="color: inherit">upcoming presentations</a>
       </h2>
-      {% include talks.liquid %}
+      {% include talks.liquid limit=true %}
     {% endif %}
 
     {% comment %} <!-- Latest posts -->
