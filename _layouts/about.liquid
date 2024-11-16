@@ -48,13 +48,21 @@ layout: default
       {% include news.liquid limit=true %}
     {% endif %}
 
-    <!-- Latest posts -->
+    <!-- Upcoming Presentations -->
+    {% if page.talks and site.announcements.enabled  %}
+      <h2>
+        <a href="{{ '/presentations/' | relative_url }}" style="color: inherit">upcoming presentations</a>
+      </h2>
+      {% include talks.liquid %}
+    {% endif %}
+
+    {% comment %} <!-- Latest posts -->
     {% if site.latest_posts.enabled %}
       <h2>
         <a href="{{ '/blog/' | relative_url }}" style="color: inherit">latest posts</a>
       </h2>
       {% include latest_posts.liquid %}
-    {% endif %}
+    {% endif %} {% endcomment %}
 
     <!-- Selected papers -->
     {% if page.selected_papers %}
