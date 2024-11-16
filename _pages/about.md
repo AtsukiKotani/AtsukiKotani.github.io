@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD Student, Department of Economics, The University of Tokyo
 
 profile:
   align: right
@@ -12,6 +12,7 @@ profile:
     <p>From the top of Mt.Otensho</p>
 
 news: true # includes a list of news items
+presentations: true # includes a list of presentations
 selected_papers:  false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
@@ -21,6 +22,8 @@ I am a first-year PhD student in Economics at the [University of Tokyo](https://
 Prior to starting my PhD, I earned an MA in Economics from the [University of Tokyo](https://www.e.u-tokyo.ac.jp/index-e.html) and a BA in Economics from [Hitotsubashi University](https://www.econ.hit-u.ac.jp/eng/).
 
 I am currently applying to PhD programs in the United States and Europe.
+
+**Research Interests**: Trade, Development Economics, Economic History
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
