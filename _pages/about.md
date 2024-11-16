@@ -9,18 +9,16 @@ profile:
   image: prof_pic.jpg # 200x200 pixels
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>From the top of Mt.Otensho</p>
 
 news: true # includes a list of news items
 selected_papers:  false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-<!-- I am a first-year PhD student in Economics at the [University of Tokyo](https://www.e.u-tokyo.ac.jp/index-e.html). My primary research fields are Trade and Development Economics, with a particular focus on the interaction between technology and the spatial distribution of economic activities. I also work on topics related to the role of production networks in shaping international trade.
+I am a first-year PhD student in Economics at the [University of Tokyo](https://www.e.u-tokyo.ac.jp/index-e.html). My primary research fields are Trade and Development Economics, with a particular focus on the interaction between technology and the spatial distribution of economic activities. I also work on topics related to the role of production networks in shaping international trade.
 
-Prior to starting my PhD, I earned an MA in Economics from the [University of Tokyo](https://www.e.u-tokyo.ac.jp/index-e.html) and a BA in Economics from [Hitotsubashi University](https://www.econ.hit-u.ac.jp/eng/). -->
+Prior to starting my PhD, I earned an MA in Economics from the [University of Tokyo](https://www.e.u-tokyo.ac.jp/index-e.html) and a BA in Economics from [Hitotsubashi University](https://www.econ.hit-u.ac.jp/eng/).
 
 I am currently applying to PhD programs in the United States and Europe.
 
