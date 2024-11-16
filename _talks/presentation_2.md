@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[The 19th Applied Econometrics Conference (Tokyo, Japan)](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.crepe.e.u-tokyo.ac.jp/en/CallforPaper2024_English.pdf)
+[The 19th Applied Econometrics Conference (Tokyo, Japan)](https://www.crepe.e.u-tokyo.ac.jp/en/CallforPaper2024_English.pdf)
