@@ -9,7 +9,7 @@ profile:
   image: sunrise.jpg # 200x200 pixels
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Sunrise from the Top of Mt.Otensho</p>
+    <p>From the Top of Mt.Otensho</p>
 
 news: true # includes a list of news items
 presentations: true # includes a list of presentations
