@@ -67,7 +67,7 @@ layout: default
       {% endif %}
     </header>
 
-    <article>
+    {% comment %} <article>
       <div class="cv">
         {% for data in site.data.resume %}
           {% if site.jsonresume and site.jsonresume.size > 0 %}
@@ -112,6 +112,6 @@ layout: default
           </div>
         {% endfor %}
       </div>
-    </article>
+    </article> {% endcomment %}
   </div>
 {% endunless %}
