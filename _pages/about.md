@@ -14,7 +14,7 @@ profile:
 news: true # includes a list of news items
 talks: true # includes a list of presentations
 selected_papers:  true # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 I am a first-year PhD student in Economics at the [University of Tokyo](https://www.e.u-tokyo.ac.jp/index-e.html). My primary research fields are Trade and Development Economics, with a particular focus on the interaction between technology and the spatial distribution of economic activities. I also work on topics related to the role of production networks in shaping international trade.
