@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-The 27th Moriguchi Prize (Best Paper Award among Japanese PhD Students in Economics).
+The 27th Moriguchi Prize.
