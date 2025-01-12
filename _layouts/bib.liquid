@@ -33,7 +33,7 @@
           {% capture width %}
             (min-width: {{ site.max_width }}) 100%, 
             (min-width: 925px and max-width: {{ site.max_width | minus: 1 }}) 100%, 
-            (min-width: 576px and max-width: 924px) {{ (site.max_width | minus: 30) | times: 0.3 }}px,
+            (min-width: 576px and max-width: 924px) calc(100% - ((100% - 60%) * ((924px - 100vw) / (924px - 576px)))),
             (max-width: 575px) 60%
           {% endcapture %}
           {%

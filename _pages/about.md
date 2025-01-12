@@ -25,7 +25,7 @@ I am currently applying to PhD programs in the United States and Europe.
 
 **Research Interests**: Trade, Development Economics, Economic History
 
-[kotani-atsuki@g.ecc.u-tokyo.ac.jp](mailto:kotani-atsuki@g.ecc.u-tokyo.ac.jp), [CV](assets/pdf/CV_AtsukiKotani.pdf)
+[Email](mailto:kotani-atsuki@g.ecc.u-tokyo.ac.jp) | [CV](assets/pdf/CV_AtsukiKotani.pdf)
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
