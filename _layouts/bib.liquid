@@ -30,11 +30,17 @@
           <img class="preview z-depth-1 rounded" src="{{ entry.preview }}">
         {% else %}
           {% assign entry_path = entry.preview | prepend: '/assets/img/publication_preview/' %}
+          {% capture width %}
+            (min-width: {{ site.max_width }}) 100%, 
+            (min-width: 576px) 100%,
+            (max-width: 575px) 60%
+          {% endcapture %}
           {%
             include figure.liquid
             loading="eager"
             path=entry_path
             sizes = "100px"
+            width=width
             class="preview z-depth-1 rounded"
             zoomable=false
             alt=entry.preview
