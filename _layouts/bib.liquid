@@ -40,8 +40,8 @@
             include figure.liquid
             loading="eager"
             path=entry_path
-            sizes = "130px"
             width=width
+            sizes = "130px"
             class="preview z-depth-1 rounded"
             zoomable=false
             alt=entry.preview
@@ -197,7 +197,7 @@
         </a>
       {% endif %}
       {% if entry.abstract %}
-        <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+        <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
       {% endif %}
       {% if entry.doi %}
         <a href="https://doi.org/{{ entry.doi }}" class="btn btn-sm z-depth-0" role="button">DOI</a>
