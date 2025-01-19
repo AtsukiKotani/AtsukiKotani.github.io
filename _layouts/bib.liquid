@@ -31,8 +31,10 @@
         {% else %}
           {% assign entry_path = entry.preview | prepend: '/assets/img/publication_preview/' %}
           {% capture sizes %}
-            (min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3}}px,
-            (min-width: 130px) 30vw, 40vw"
+            (min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3 }}px, 
+            (min-width: 925px and max-width: {{ site.max_width | minus: 1 }}) 100%, 
+            (min-width: 576px and max-width: 924px) 30vw, 
+            (max-width: 575px) 25vw
           {% endcapture %}
           {%
             include figure.liquid
