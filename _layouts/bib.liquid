@@ -32,7 +32,7 @@
           {% assign entry_path = entry.preview | prepend: '/assets/img/publication_preview/' %}
           {% capture sizes %}
             (min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3}}px,
-            (min-width: 576px) 30vw, 130px"
+            (min-width: 576px) 30vw, 5vw"
           {% endcapture %}
           {%
             include figure.liquid
