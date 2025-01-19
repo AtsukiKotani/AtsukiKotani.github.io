@@ -31,16 +31,13 @@
         {% else %}
           {% assign entry_path = entry.preview | prepend: '/assets/img/publication_preview/' %}
           {% capture sizes %}
-            (min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3 }}px, 
-            (min-width: 925px and max-width: {{ site.max_width | minus: 1 }}) 100%, 
-            (min-width: 576px and max-width: 924px) 30vw, 
-            (max-width: 575px) 130px
+            (min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3}}px,
+            (min-width: 576px) 30vw, 130px"
           {% endcapture %}
           {%
             include figure.liquid
             loading="eager"
             path=entry_path
-            width=width
             sizes=sizes
             class="preview z-depth-1 rounded"
             zoomable=false
