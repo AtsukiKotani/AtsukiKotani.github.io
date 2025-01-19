@@ -30,22 +30,21 @@
           <img class="preview z-depth-1 rounded" src="{{ entry.preview }}">
         {% else %}
           {% assign entry_path = entry.preview | prepend: '/assets/img/publication_preview/' %}
-          {% capture width %}
-            (min-width: {{ site.max_width }}) 100%, 
-            (min-width: 925px and max-width: {{ site.max_width | minus: 1 }}) 100%, 
-            (min-width: 576px and max-width: 924px) calc(100% - ((100% - 60%) * ((924px - 100vw) / (924px - 576px)))),
-            (max-width: 575px) 60%
+          {% capture sizes %}
+            (min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3}}px,
+            (min-width: 576px) 30vw, 5vw"
           {% endcapture %}
           {%
             include figure.liquid
             loading="eager"
             path=entry_path
-            width=width
-            sizes=130px
+            sizes=sizes
+            size = "130vw"
             class="preview z-depth-1 rounded"
             zoomable=false
             alt=entry.preview
           %}
+        {% endif %}
       {% endif %}
     </div>
   {% endif %}
