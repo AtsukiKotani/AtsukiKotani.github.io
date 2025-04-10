@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-7-29 15:59:00-0400
+date: 2025-7-8 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-[NBER Japan Project Meeting, Summer 2025 (Tokyo, Japan)](https://www.nber.org/conferences/japan-project-meeting-summer-2025)
+[Waseda University Empirical Microeconomics Seminar (Tokyo, Japan)](https://winpec.sakura.ne.jp/Winpec_Workshop_Calendar/workshop/4)
