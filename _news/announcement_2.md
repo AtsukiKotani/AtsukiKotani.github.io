@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[The 27th Moriguchi Prize](https://www.iser.osaka-u.ac.jp/moriguchi/moriguchi_en.html)
+[The 27th Moriguchi Prize](https://www.iser.osaka-u.ac.jp/en/events/moriguchi/past-winners)
