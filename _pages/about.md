@@ -21,6 +21,8 @@ I am a second-year PhD student in Economics at the [University of Tokyo](https:/
 
 Before my PhD, I earned an MA in Economics from the [University of Tokyo](https://www.e.u-tokyo.ac.jp/index-e.html) and a BA in Economics from [Hitotsubashi University](https://www.econ.hit-u.ac.jp/eng/).
 
+I will join the Ph.D. program in Economics at [**Boston University**](https://www.bu.edu/econ/) this fall.
+
 **Research Interests**: Trade, Development Economics, Economic History
 
 You can find a copy of my CV [here](assets/pdf/CV_AtsukiKotani.pdf).
