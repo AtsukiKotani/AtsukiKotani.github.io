@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student, Department of Economics, The University of Tokyo
+subtitle: PhD Student, Department of Economics, Boston University
 
 profile:
   align: right
@@ -17,17 +17,15 @@ selected_papers:  false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a second-year PhD student in Economics at the [University of Tokyo](https://www.e.u-tokyo.ac.jp/index-e.html). My primary research fields are Trade and Development Economics, with a particular focus on the interaction between technology and the spatial distribution of economic activities. I also work on topics related to the role of production networks in shaping international trade.
+I am a first-year PhD student in Economics at the [Boston University](https://www.bu.edu/econ/). My primary research fields are Trade and Development Economics, with a particular focus on the interaction between technology and the spatial distribution of economic activities. I also work on topics related to the role of production networks in shaping international trade.
 
 Before my PhD, I earned an MA in Economics from the [University of Tokyo](https://www.e.u-tokyo.ac.jp/index-e.html) and a BA in Economics from [Hitotsubashi University](https://www.econ.hit-u.ac.jp/eng/).
-
-I will join the Ph.D. program in Economics at [**Boston University**](https://www.bu.edu/econ/) this fall.
 
 **Research Interests**: Trade, Development Economics, Economic History
 
 You can find a copy of my CV [here](assets/pdf/CV_AtsukiKotani.pdf).
 
-Contact: [kotani-atsuki@g.ecc.u-tokyo.ac.jp](mailto:kotani-atsuki@g.ecc.u-tokyo.ac.jp)
+Contact: [atsuki@bu.edu](mailto:atsuki@bu.edu)
 
 ### Working Papers
 ---
